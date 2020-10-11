@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://hsbydmag.herokuapp.com/",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://hsbydmag.herokuapp.com",
+    "contentApiKey": "c6ca4de997ae135edab10bdff7"
   },
   "production": {
-    "apiUrl": "https://hsbydmag.herokuapp.com/",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://hsbydmag.herokuapp.com",
+    "contentApiKey": "c6ca4de997ae135edab10bdff7"
   }
 }
